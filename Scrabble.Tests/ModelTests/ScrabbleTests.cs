@@ -1,9 +1,9 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Project.Models;
+using Scrabble.Models;
 using System.Collections.Generic;
 
-namespace Project.Tests
+namespace Scrabble.Tests
 {
     [TestClass]
     public class ProjectTester
